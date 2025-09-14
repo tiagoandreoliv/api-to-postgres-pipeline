@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+.venv/
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Environment files
+.env
+.env.*
+
+# VS Code / IDEs
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+
+# Docker (optional local dirs)
+data/
