@@ -16,10 +16,10 @@ Features
 ---
 
 Technologies Used
-- **Python 3**
-- **Pandas**
-- **PostgreSQL**
-- **Docker & Docker Compose**
+- Python 3
+- Pandas
+- PostgreSQL
+- Docker & Docker Compose
 
 ---
 
