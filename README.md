@@ -4,7 +4,7 @@ ETL pipeline that extracts data from a public API, transforms it with **Pandas**
 
 ---
 
-## 🚀 Features
+Features
 - Extracts data from a free public API (`jsonplaceholder.typicode.com`)
 - Transforms raw JSON data into structured tables with Pandas
 - Loads data into a PostgreSQL database running in Docker
@@ -15,7 +15,7 @@ ETL pipeline that extracts data from a public API, transforms it with **Pandas**
 
 ---
 
-## 🛠️ Technologies Used
+Technologies Used
 - **Python 3**
 - **Pandas**
 - **PostgreSQL**
@@ -23,7 +23,7 @@ ETL pipeline that extracts data from a public API, transforms it with **Pandas**
 
 ---
 
-## ⚡ How to Run
+How to Run
 
 1. Clone the repository:
    ```bash
