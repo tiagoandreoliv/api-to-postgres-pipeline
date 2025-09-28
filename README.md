@@ -1,6 +1,3 @@
-# api-to-postgres-pipeline
-ETL pipeline that extracts data from a public API, transforms it with pandas, and loads it into PostgreSQL using Docker.
-
 # API to Postgres Pipeline
 
 ETL pipeline that extracts data from a public API, transforms it with **Pandas**, and loads it into **PostgreSQL** using **Docker**.
